@@ -20,7 +20,7 @@ const BLOG = {
   AUTHOR: process.env.NEXT_PUBLIC_AUTHOR || '小吴乐意的博客', // 您的昵称 例如 tangly1024
   BIO: process.env.NEXT_PUBLIC_BIO || '未来的种子，深埋在过去。', // 作者简介
   LINK: process.env.NEXT_PUBLIC_LINK || 'https://www.xiaowuleyi.com', // 网站地址
-  KEYWORDS: process.env.NEXT_PUBLIC_KEYWORD || '小吴, 博客, 小吴乐意博客, 生活记录, 菲律宾', // 网站关键词 英文逗号隔开
+  KEYWORDS: process.env.NEXT_PUBLIC_KEYWORD || '小吴, 博客, 小吴乐意博客, 生活记录, 独立博客, 中文博客', // 网站关键词 英文逗号隔开
 
   // 社交链接，不需要可留空白，例如 CONTACT_WEIBO:''
   CONTACT_EMAIL: process.env.NEXT_PUBLIC_CONTACT_EMAIL || 'xiaowuleyi@gmail.com', // 邮箱地址 例如mail@tangly1024.com
